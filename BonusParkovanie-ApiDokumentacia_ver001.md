@@ -30,7 +30,7 @@ Jednotlivé spotrebné družstvá COOP jednota využitím tu popisovaných postu
 
 **Podpora a Helpdesk:**
 
-* **Email (vývoj):** `Bonus@NRSYS.sk`
+* **Email (vývoj):** `bonus@nrsys.sk`
 
 \---
 
