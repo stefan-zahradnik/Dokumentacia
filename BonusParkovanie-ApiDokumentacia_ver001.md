@@ -26,7 +26,7 @@ Jednotlivé spotrebné družstvá COOP jednota využitím tu popisovaných postu
 |**Produkcia**|Web API|*(doplní sa)*|Hlavná produkčná API adresa|
 |**Produkcia**|Webový portál|*(doplní sa)*|Aplikácia pre centrálny a regionálny management|
 |**Test**|Web API|`https://bonusservice.coop.sk`|Testovacia API adresa|
-|**Test**|Webový portál|`https://bonusportal-test.nic.sk`|Testovacia aplikácia pre management|
+|**Test**|Webový portál|`https://bonusportal-test.coop.sk`|Testovacia aplikácia pre management|
 
 **Podpora a Helpdesk:**
 
