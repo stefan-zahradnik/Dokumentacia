@@ -25,7 +25,7 @@ Jednotlivé spotrebné družstvá COOP jednota využitím tu popisovaných postu
 |-|-|-|-|
 |**Produkcia**|Web API|*(doplní sa)*|Hlavná produkčná API adresa|
 |**Produkcia**|Webový portál|*(doplní sa)*|Aplikácia pre centrálny a regionálny management|
-|**Test**|Web API|`https://bonusservice.COOP.sk`|Testovacia API adresa|
+|**Test**|Web API|`https://bonusservice.coop.sk`|Testovacia API adresa|
 |**Test**|Webový portál|`https://bonusportal-test.nic.sk`|Testovacia aplikácia pre management|
 
 **Podpora a Helpdesk:**
@@ -51,7 +51,7 @@ Aby pokladňa mohla plnohodnotne komunikovať s Web API funkciami Bonus servera,
 Adresa pre všetky metódy sa skladá zo základnej URL, verzie API a názvu metódy:
 
 ```http
-https://bonusservice-test.COOP.sk/{VERZIA}/{METODA}
+https://bonusservice-test.coop.sk/{VERZIA}/{METODA}
 ```
 
 *Aktuálna verzia API (`{VERZIA}`): **`v16`***
