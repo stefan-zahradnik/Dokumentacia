@@ -15,7 +15,7 @@ Zvýhodnenie spočíva v rôznej forme úľavy v prípade parkovania motorového
 Jednotlivé spotrebné družstvá COOP jednota využitím tu popisovaných postupov získajú nástroj pre podporu technickej realizácie. Parkovací systém predajne má k dispozícii overenie údajov spojených s nákupom užívateľa motorového vozidla v danej predajni.
 
 > \[!WARNING]
-> Pre správne využívanie systému Bonus – modul parkovanie je nutné využívať výhradne technické postupy v súlade s touto dokumentáciou a vyhnúť sa akýmkoľvek iným nepopísaným postupom. Prevádzkovateľ systému Bonus (CJS) a tvorca (SYSRE s.r.o.) zodpovedajú len za situácie, ktoré sú v súlade s touto dokumentáciou.
+> Pre správne využívanie systému Bonus – modul parkovanie je nutné využívať výhradne technické postupy v súlade s touto dokumentáciou a vyhnúť sa akýmkoľvek iným nepopísaným postupom. Prevádzkovateľ systému Bonus (CJS) a tvorca (NRSYS s.r.o.) zodpovedajú len za situácie, ktoré sú v súlade s touto dokumentáciou.
 
 \---
 
@@ -30,7 +30,7 @@ Jednotlivé spotrebné družstvá COOP jednota využitím tu popisovaných postu
 
 **Podpora a Helpdesk:**
 
-* **Email (vývoj):** `Bonus@sysre.sk`
+* **Email (vývoj):** `Bonus@NRSYS.sk`
 
 \---
 
