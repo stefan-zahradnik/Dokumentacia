@@ -143,7 +143,7 @@ Prihlásenie parkovacieho automatu do systému a získanie autentizačného toke
     "refreshTokenExpireAt": "2026-09-09T14:54:21.8467456+02:00",
     "error": false,
     "resNum": 0,
-    "resultItems": \[]
+    "resultItems": []
 }
 ```
 
